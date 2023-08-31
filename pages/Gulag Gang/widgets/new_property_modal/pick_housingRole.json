@@ -29,6 +29,7 @@
     "mobileBottomRow": 27,
     "widgetName": "pick_housingRole",
     "isFilterable": true,
+    "dynamicPropertyPathList": [{"key": "sourceData"}],
     "displayName": "Select",
     "searchTags": ["dropdown"],
     "bottomRow": 18,
